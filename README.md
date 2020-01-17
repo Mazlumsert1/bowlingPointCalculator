@@ -2,7 +2,7 @@
 
 ### How to Run Project 
 
-**Køre projektet via din standard Command line**
+**To run the project using your default Command Line Tool**
 
 ```bash 
 cd bowlingPointCalculator
